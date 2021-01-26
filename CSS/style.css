@@ -1,0 +1,61 @@
+*{
+    padding: 0%;
+    border: 0%;
+    margin: 0%;
+}
+nav{
+    background-color: #ececec;
+}
+ol{
+    list-style: none;
+    display: inline;
+}
+li {
+    float: right;
+    padding-top: 1.9%;
+    margin-right: 4%;
+  }
+  
+  a {
+    display: block;  
+    text-decoration: none; 
+    color: black;
+}
+.random-header{
+    background-image:url(Images/florian-olivo-4hbJ-eymZ1o-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    height: 58vh;
+    
+}
+ #H-one{
+    padding-top: 60px;
+    padding-bottom: 30px;
+    text-align: center;
+    color: rgb(238, 238, 238);
+    font-weight: lighter;
+    font-size: 2.5em;
+}
+#P-one{
+    padding-top: 10px;
+    text-align: center;
+    color: rgb(156, 156, 156);
+    font-weight: bolder;
+    font-size: 1.2em;
+} 
+
+#i-frame{
+    width: 50%;
+    float:left;
+}
+#text-txt{
+    width: 50%;
+    display: inline;
+    float:right;
+}
+#django-one{
+    font-size: 4em;
+    font-weight: lighter; 
+    padding: 2%;
+}
